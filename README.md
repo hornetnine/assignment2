@@ -58,3 +58,10 @@ The simulation also subscribes to the following topic (also of `std_msgs/Float64
 Publishing to this topic will allow you to control the vertical thrust of the vehicle.
 
 You can mouse click on the GUI to change the setpoint.
+
+## Running the controller
+Make the relevant changes to the controller node template. Then build, source and run 
+```bash
+ros2 run assignment2 controller
+```
+to test your controller.
