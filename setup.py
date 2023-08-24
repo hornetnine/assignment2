@@ -13,7 +13,7 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='h9',
+    maintainer='hornetnine',
     maintainer_email='hornetnine@gmail.com',
     description='TODO: Package description',
     license='TODO: License declaration',
