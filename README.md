@@ -10,7 +10,7 @@ Zip and email your solution to hornetnine@gmail.com with subject [Software Homew
 ## Setting up the simulation
 This simulation depends on pygame. To install pygame, either run
 ```bash
-sudo apt install python-pygame
+sudo apt install python3-pygame
 ```
 or
 ```bash
